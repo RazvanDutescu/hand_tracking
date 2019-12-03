@@ -1,0 +1,1 @@
+To run the program, in Matlab, load processVideo.m and specify the name of the video to process. The result will be put in new.avi.
